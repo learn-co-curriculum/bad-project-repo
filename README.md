@@ -1,4 +1,4 @@
-![austin animal center](./images/austin-animal-center.jpg)
+![austin animal center](./austin-animal-center.jpg)
 
 # Austin Animal Center Needs Analysis
 
@@ -10,7 +10,7 @@ This project analyzes the resource needs of the [Austin Animal Center](https://w
 
 ## Business Problem
 
-![img](./images/animals.png)
+![img](./animals.png)
 
 The Austin Animal Shelter may be able to improve their resource allocation to both reduce costs and ensure that the center has staff and space to care for the animals brought to them. Doing so will allow the Austin Animal Shelter to better serve its clients while also freeing up resources to expand the scope of services they can offer.
 
@@ -26,11 +26,11 @@ This project uses descriptive analysis, including description of trends over tim
 
 Most animals have short stays at AAC (under 15 days) but some have long stays (over 180 days), and most of these are dogs.
 
-![stay_lengths_by_type](./images/stay_lengths_by_type.png)
+![stay_lengths_by_type](./stay_lengths_by_type.png)
 
 The total number of sheltered animals typically peaks in May of each year and then hits its lowest point around January. There is often a secondary peak sometime after May before the number of sheltered animals drops rapidly. The number of sheltered animals has dropped precipitously in 2020, likely as a result of COVID-19.
 
-![sheltered_by_month.png](./images/sheltered_by_month.png)
+![sheltered_by_month.png](./sheltered_by_month.png)
 
 ## Conclusions
 
@@ -54,14 +54,5 @@ See the full analysis in the [Jupyter Notebook](./animal-shelter-needs-analysis.
 
 For additional info, contact Alison Peebles Madigan at [alison.peeblesmadigan@flatironschool.com](mailto:alison.peeblesmadigan@flatironschool.com)
 
-![logo](./images/aac_logo_tall.jpg)
+![logo](./aac_logo_tall.jpg)
 
-## Repository Structure
-
-```
-├── data
-├── images
-├── README.md
-├── Animal_Shelter_Needs_Presentation.pdf
-└── animal_shelter_needs_analysis.ipynb
-```
